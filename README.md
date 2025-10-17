@@ -139,7 +139,7 @@ Java/Gradle-Lernprojekt zu Authentifizierung und Abrechnung.
 ## 🎓 Bildung
 
 **Xidian University** — Bachelor (laufend)
-📆 Seit 2022 · Studienrichtung: *[Informatik / Künstliche Intelligenz]*
+📆 Seit 2023 · Studienrichtung: *[Informatik / Künstliche Intelligenz]*
 
 ---
 
