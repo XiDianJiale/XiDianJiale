@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Jiale Hao**
 
-🎓 **Undergraduate at Xidian University (2023–Present)**
+🎓 **Undergraduate at Xidian University**
 🎯 **Aiming for Backend → DevOps career**
 💡 Passionate about backend systems, containerization, and clean CI/CD design.
 🐧 Currently exploring Go, Docker, and infrastructure automation.
