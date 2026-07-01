@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Jiale Hao**
 
 🎓 **Undergraduate at Xidian University**
-🎯 **Aiming for Backend → DevOps career**
-💡 Passionate about backend systems, containerization, and clean CI/CD design.
+🎯 **Aiming for Backend → SRE career**
+💡 Passionate about backend systems, containerization, and cloud-native Bestpractice.
 🐧 Currently exploring Go, Docker, and infrastructure automation.
 
 ---
@@ -69,7 +69,7 @@ Java Gradle project exploring authentication and billing logic.
 
 ## 🌐 Languages
 
-🇨🇳 Chinese (Native) · 🇬🇧 English (*B2-C1*) · 🇩🇪 German (*A1*)
+🇨🇳 Chinese (Native) · 🇬🇧 English (*C1*) · 🇩🇪 German (*A1*)
 
 ---
 
